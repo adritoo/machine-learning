@@ -12,7 +12,7 @@ lab1.py #it contains our algorithm
 data_ffnn_3classes.txt #contains our data for training.
 ```
 
-### Before starting
+## Before starting
 To run the app localy you will need to install `numpy`  & `matplotlib`
 ```bash
 py pip install numpy
